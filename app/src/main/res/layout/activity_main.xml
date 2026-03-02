@@ -20,15 +20,21 @@
         android:id="@+id/chip"
         android:layout_width="105dp"
         android:layout_height="101dp"
-        tools:layout_editor_absoluteX="183dp"
-        tools:layout_editor_absoluteY="168dp" />
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="551dp" />
 
     <Switch
         android:id="@+id/switch1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Switch"
-        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteX="168dp"
         tools:layout_editor_absoluteY="461dp" />
+
+    <ListView
+        android:layout_width="409dp"
+        android:layout_height="166dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="86dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
