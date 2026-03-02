@@ -23,4 +23,11 @@
         tools:layout_editor_absoluteX="29dp"
         tools:layout_editor_absoluteY="19dp" />
 
+    <TextClock
+        android:id="@+id/textClock"
+        android:layout_width="47dp"
+        android:layout_height="25dp"
+        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteY="409dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
